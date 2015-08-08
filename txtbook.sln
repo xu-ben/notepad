@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "txtbook", "txtbook\txtbook.vbproj", "{190809C8-D305-40C8-97FE-BC0F57DCAE32}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setupmytxtbook", "Setupmytxtbook\Setupmytxtbook.vdproj", "{CA705F9B-DF83-492D-9A28-060DCF382FF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{190809C8-D305-40C8-97FE-BC0F57DCAE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190809C8-D305-40C8-97FE-BC0F57DCAE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190809C8-D305-40C8-97FE-BC0F57DCAE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190809C8-D305-40C8-97FE-BC0F57DCAE32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA705F9B-DF83-492D-9A28-060DCF382FF7}.Debug|Any CPU.ActiveCfg = Debug
+		{CA705F9B-DF83-492D-9A28-060DCF382FF7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

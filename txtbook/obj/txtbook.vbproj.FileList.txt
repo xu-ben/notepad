@@ -1,0 +1,11 @@
+bin\Debug\txtbook.exe
+bin\Debug\txtbook.pdb
+bin\Debug\txtbook.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\txtbook.frmtxt.resources
+obj\Debug\txtbook.Resources.resources
+obj\Debug\txtbook.vbproj.GenerateResource.Cache
+obj\Debug\txtbook.exe
+obj\Debug\txtbook.xml
+obj\Debug\txtbook.pdb
+obj\Debug\txtbook.frmfind.resources
